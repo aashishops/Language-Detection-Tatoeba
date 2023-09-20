@@ -16,5 +16,5 @@ df = pd.read_csv(r'lang_abr.csv')
 abr = df[(df["lang"]==prediction)]
 
 if st.button("Detect"):
-    st.write('The Detected Language is ',abr['abr'][0],'.')
+    st.write('The Detected Language is ',abr['abr'].item(),'.')
     
