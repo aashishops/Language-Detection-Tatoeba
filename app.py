@@ -12,7 +12,7 @@ with open('./lang_model','rb')as f:
     mod= pickle.load(f)
 prediction = mod.predict([text])[0]
 prediction = ''.join(prediction)
-df = pd.read_csv(r'E:/dsc-works/Language Detection/lang_abr.csv')
+df = pd.read_csv(r'./lang_abr.csv')
 abr = df[(df["lang"]==prediction)]
 
 if st.button("Detect"):
