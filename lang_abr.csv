@@ -1,0 +1,424 @@
+﻿lang,abr
+eng,English
+rus,Russian
+ita,Italian
+epo,Esperanto
+tur,Turkish
+kab,Kabyle
+ber,Berber
+deu,German
+fra,French
+por,Portuguese
+spa,Spanish
+hun,Hungarian
+jpn,Japanese
+heb,Hebrew
+ukr,Ukrainian
+nld,Dutch
+fin,Finnish
+pol,Polish
+lit,Lithuanian
+mkd,Macedonian
+tgl,Tagalog
+cmn,Mandarin Chinese
+ces,Czech
+mar,Marathi
+ara,Arabic
+dan,Danish
+tok,Toki Pona
+swe,Swedish
+lat,Latin
+srp,Serbian
+ell,Greek
+ron,Romanian
+ina,Interlingua
+pes,Persian
+tlh,Klingon
+bul,Bulgarian
+vie,Vietnamese
+lfn,Lingua Franca Nova
+swc,Congo Swahili
+hau,Hausa
+ind,Indonesian
+yid,Yiddish
+nds,Low German (Low Saxon)
+slk,Slovak
+nob,Norwegian Bokmål
+jbo,Lojban
+hin,Hindi
+ben,Bengali
+tat,Tatar
+nnb,Nande
+bel,Belarusian
+isl,Icelandic
+ckb,Central Kurdish (Soranî)
+kor,Korean
+ido,Ido
+kmr,Northern Kurdish (Kurmancî)
+cat,Catalan
+ile,Interlingue
+uig,Uyghur
+bre,Breton
+zsm,Malay
+tuk,Turkmen
+oss,Ossetian
+asm,Assamese
+kat,Georgian
+yue,Cantonese
+eus,Basque
+oci,Occitan
+aze,Azerbaijani
+est,Estonian
+sat,Santali
+gos,Gronings
+hrv,Croatian
+vol,Volapük
+tha,Thai
+kzj,Coastal Kadazan
+run,Kirundi
+hye,Armenian
+glg,Galician
+lin,Lingala
+lvs,Latvian
+wuu,Shanghainese
+swh,Swahili
+shi,Tashelhit
+mhr,Meadow Mari
+kaz,Kazakh
+afr,Afrikaans
+avk,Kotava
+cor,Cornish
+tig,Tigre
+rhg,Rohingya
+knc,Central Kanuri
+zgh,Standard Moroccan Tamazight
+npi,Nepali
+grn,Guarani
+frr,North Frisian
+dtp,Central Dusun
+gle,Irish
+slv,Slovenian
+cbk,Chavacano
+mon,Mongolian
+sqi,Albanian
+ilo,Ilocano
+urd,Urdu
+war,Waray
+arq,Algerian Arabic
+khm,Khmer
+kha,Khasi
+ota,Ottoman Turkish
+zlm,Malay (Vernacular)
+nus,Nuer
+gcf,Guadeloupean Creole French
+swg,Swabian
+lad,Ladino
+lij,Ligurian
+lzh,Literary Chinese
+cym,Welsh
+zza,Zaza
+bos,Bosnian
+ceb,Cebuano
+chv,Chuvash
+grc,Ancient Greek
+nno,Norwegian Nynorsk
+hsb,Upper Sorbian
+pam,Kapampangan
+hoc,Ho
+unknown,unknown
+pcd,Picard
+orv,Old East Slavic
+hrx,Hunsrik
+xmf,Mingrelian
+arz,Egyptian Arabic
+prg,Old Prussian
+dsb,Lower Sorbian
+jav,Javanese
+gla,Scottish Gaelic
+uzb,Uzbek
+sdh,Southern Kurdish
+sah,Yakut
+csb,Kashubian
+guc,Wayuu
+bua,Buryat
+udm,Udmurt
+ltz,Luxembourgish
+mal,Malayalam
+rom,Romani
+xal,Kalmyk
+pms,Piedmontese
+nst,Naga (Tangshang)
+mlt,Maltese
+fry,Frisian
+mus,Muskogee (Creek)
+thv,Tahaggart Tamahaq
+fkv,Kven Finnish
+tpw,Old Tupi
+mya,Burmese
+ast,Asturian
+ckt,Chukchi
+tam,Tamil
+gsw,Swiss German
+nov,Novial
+bzt,Brithenig
+que,Quechua
+max,North Moluccan Malay
+fao,Faroese
+arn,Mapuche
+rif,Tarifit
+ori,Odia (Oriya)
+mri,Maori
+kir,Kyrgyz
+ang,Old English
+crh,Crimean Tatar
+cha,Chamorro
+tzl,Talossan
+ain,Ainu
+mfa,Kelantan-Pattani Malay
+tel,Telugu
+got,Gothic
+bak,Bashkir
+xho,Xhosa
+awa,Awadhi
+amh,Amharic
+shy,Tachawit
+bar,Bavarian
+krc,Karachay-Balkar
+lao,Lao
+sme,Northern Sami
+tmr,Jewish Babylonian Aramaic
+fro,Old French
+nah,Nahuatl
+kan,Kannada
+pan,Punjabi (Eastern)
+srn,Sranan Tongo
+krl,Karelian
+nog,Nogai
+haw,Hawaiian
+vec,Venetian
+sux,Sumerian
+guj,Gujarati
+san,Sanskrit
+qya,Quenya
+lzz,Laz
+ldn,Láadan
+enm,Middle English
+bjn,Banjar
+hbo,Ancient Hebrew
+egl,Emilian
+bal,Baluchi
+ltg,Latgalian
+skr,Saraiki
+som,Somali
+kal,Greenlandic
+afb,Gulf Arabic
+cho,Choctaw
+kum,Kumyk
+wol,Wolof
+min,Minangkabau
+rue,Rusyn
+yor,Yoruba
+evn,Evenki
+mik,Hitchiti
+zul,Zulu
+tir,Tigrinya
+tet,Tetun
+arg,Aragonese
+apc,North Levantine Arabic
+kbd,Kabardian
+hat,Haitian Creole
+stq,Saterland Frisian
+shs,Shuswap
+tum,Tumbuka
+sjn,Sindarin
+tpi,Tok Pisin
+ary,Moroccan Arabic
+pap,Papiamento
+mrj,Hill Mari
+nav,Navajo
+sco,Scots
+lld,Ladin
+cmo,Central Mnong
+smo,Samoan
+ksh,Kölsch
+mww,Hmong Daw (White)
+afh,Afrihili
+tyv,Tuvinian
+bvy,Baybayanon
+moh,Mohawk
+iba,Iban
+myv,Erzya
+crs,Seychellois Creole
+tly,Talysh
+ext,Extremaduran
+tgk,Tajik
+mlg,Malagasy
+iii,Nuosu
+pag,Pangasinan
+szl,Silesian
+mgm,Mambae
+pus,Pashto
+ppl,Pipil
+lut,Lushootseed
+sma,Southern Sami
+pdc,Pennsylvania German
+bod,Tibetan
+bfz,Mahasu Pahari
+dws,Dutton World Speedwords
+pnb,Punjabi (Western)
+gag,Gagauz
+tts,Isan
+hak,Hakka Chinese
+bho,Bhojpuri
+sin,Sinhala
+pal,Middle Persian (Pahlavi)
+chn,Chinook Jargon
+wln,Walloon
+bom,Berom
+ike,Inuktitut
+acm,Iraqi Arabic
+kas,Kashmiri
+sna,Shona
+sgs,Samogitian
+kpv,Komi-Zyrian
+lim,Limburgish
+hil,Hiligaynon
+ngu,Guerrero Nahuatl
+fij,Fijian
+koi,Komi-Permyak
+kjh,Khakas
+ryu,Okinawan
+tsn,Setswana
+che,Chechen
+drt,Drents
+div,Dhivehi
+nch,Central Huasteca Nahuatl
+glv,Manx
+gbm,Garhwali
+cycl,CycL
+fuv,Nigerian Fulfulde
+scn,Sicilian
+oji,Ojibwe
+ibo,Igbo
+niu,Niuean
+pau,Palauan
+hif,Fiji Hindi
+jam,Jamaican Patois
+liv,Livonian
+fur,Friulian
+rap,Rapa Nui
+frm,Middle French
+cay,Cayuga
+mwl,Mirandese
+igs,Interglossa
+ady,Adyghe
+kin,Kinyarwanda
+abk,Abkhaz
+ajp,South Levantine Arabic
+sun,Sundanese
+dng,Dungan
+umb,Umbundu
+tah,Tahitian
+chr,Cherokee
+lmo,Lombard
+mvv,Tagal Murut
+bis,Bislama
+ood,O'odham
+akl,Aklanon
+aln,Gheg Albanian
+mah,Marshallese
+nya,Chinyanja
+ewe,Ewe
+lkt,Lakota
+ton,Tongan
+roh,Romansh
+kek,Kekchi (Q'eqchi')
+cos,Corsican
+aoz,Uab Meto
+ava,Avar
+osp,Old Spanish
+oar,Old Aramaic
+kaa,Karakalpak
+lou,Louisiana Creole
+izh,Ingrian
+non,Old Norse
+inh,Ingush
+klj,Khalaj
+ngt,Ngeq
+dar,Dargwa
+cjy,Jin Chinese
+mic,Mi'kmaq
+jpa,Jewish Palestinian Aramaic
+new,Newari
+srd,Sardinian
+qxq,Qashqai
+phn,Phoenician
+syl,Sylheti
+nan,Min Nan Chinese
+vro,Võro
+tvl,Tuvaluan
+lez,Lezgi
+toi,Tonga (Zambezi)
+gil,Gilbertese
+nlv,Orizaba Nahuatl
+lbe,Lak
+vep,Veps
+bam,Bambara
+ofs,Old Frisian
+alt,Southern Altai
+emx,Erromintxela
+zea,Zeelandic
+mnr,Mono (USA)
+tkl,Tokelauan
+xqa,Karakhanid
+brx,Bodo
+nau,Nauruan
+abq,Abaza
+yua,Yucatec Maya
+kam,Kamba
+laa,Southern Subanen
+jdt,Juhuri (Judeo-Tat)
+mdf,Moksha
+mnw,Mon
+sag,Sango
+mai,Maithili
+mad,Madurese
+chg,Chagatai
+quc,K'iche'
+otk,Old Turkish
+cpi,Chinese Pidgin English
+fuc,Pulaar
+mfe,Morisyen
+ban,Balinese
+aii,Assyrian Neo-Aramaic
+diq,Southern Zaza (Dimli)
+kiu,Northern Zaza (Kirmanjki)
+snd,Sindhi
+tmw,Temuan
+bcl,Central Bikol
+kxi,Keningau Murut
+hnj,Hmong Njua (Green)
+crk,Plains Cree
+hsn,Xiang Chinese
+gom,Konkani (Goan)
+tso,Tsonga
+pfl,Palatine German
+syc,Syriac
+gaa,Ga
+osx,Old Saxon
+gan,Gan Chinese
+ayl,Libyan Arabic
+hdn,Northern Haida
+mni,Meitei
+nys,Nyungar
+lug,Luganda
+nap,Neapolitan
+sot,Southern Sotho
+mnc,Manchu
+pli,Pali
+aym,Aymara
+urh,Urhobo
+ssw,Swazi
+hax,Southern Haida
+cyo,Cuyonon
+rel,Rendille
