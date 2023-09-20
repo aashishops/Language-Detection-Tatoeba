@@ -8,7 +8,7 @@ st.title("LANGUAGE DETECTION :scroll:")
 st.subheader("This is a Language Detector.")
 st.write("Type a sentence in the below box to identify the Language.")
 text = st.text_area("Enter the sentence to identify")
-with open('lang_model.pkl','rb')as file:
+with open('language_model.pkl','rb')as file:
     mod= pickle.load(file)
 prediction = mod.predict([text])[0]
 prediction = ''.join(prediction)
