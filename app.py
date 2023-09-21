@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import pickle
 st.set_page_config(page_title='Language Detection')
 st.title("LANGUAGE DETECTION :scroll:")
 st.subheader("This is a Language Detector.")
