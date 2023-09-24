@@ -15,10 +15,8 @@ In summary, Tatoeba Language Detection works by converting text into numerical f
 
 
 
-
 ## Demo
 
+Click here [<img src="https://raw.githubusercontent.com/aashishops/Language-Detection-Tatoeba/main/images/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Streamlit Logo" width="200">](https://asl-detector.streamlit.app/)
 
-[![Streamlit Logo](https://raw.githubusercontent.com/aashishops/Language-Detection-Tatoeba/main/images/streamlit-logo-1A3B208AE4-seeklogo.com.png)](https://asl-detector.streamlit.app/)
 ![Demo](https://raw.githubusercontent.com/aashishops/Language-Detection-Tatoeba/9039379470488dce59d57c78d6f606016e6e86dd/images/demo.gif)
-
