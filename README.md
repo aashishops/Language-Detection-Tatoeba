@@ -1,4 +1,8 @@
 # Language Detector 📜
+[![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](https://github.com/aashishops/Language-Detection-Tatoeba/tree/main#readme) 
+[![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](https://language-detector.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://language-detector.streamlit.app/)
+
 ## Introduction
 #### Welcome to the Language Detector! 
 Language detection is a tool designed to identify the language of a given text using natural language processing (NLP) techniques. That involves determining the language in which a given text is written. This provides a simple and efficient language detection system using scikit-learn pipeline to combine a TF-IDF vectorizer with a Logistic Regression classifier to detect the language of a given text. The model is trained on the Tatoeba dataset, a large corpus of parallel texts in over 220 languages.
